@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T11:20:07 IST" name="Default suite" finished-at="2022-12-29T11:20:59 IST" duration-ms="52369">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T11:20:07 IST" name="Default test" finished-at="2022-12-29T11:20:59 IST" duration-ms="52369">
+      <class name="com.demo.seleniumTestNG.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:07 IST" name="setUp" finished-at="2022-12-29T11:20:07 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:07 IST" name="launch" finished-at="2022-12-29T11:20:22 IST" duration-ms="14673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="testCase1()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:22 IST" name="testCase1" finished-at="2022-12-29T11:20:22 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:22 IST" name="close" finished-at="2022-12-29T11:20:22 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:23 IST" name="launch" finished-at="2022-12-29T11:20:40 IST" duration-ms="17524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="testCase2()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:40 IST" name="testCase2" finished-at="2022-12-29T11:20:40 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:40 IST" name="close" finished-at="2022-12-29T11:20:41 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:41 IST" name="launch" finished-at="2022-12-29T11:20:54 IST" duration-ms="12892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="testCase3()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:54 IST" name="testCase3" finished-at="2022-12-29T11:20:59 IST" duration-ms="5420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.demo.seleniumTestNG.AppTest@4466af20]" started-at="2022-12-29T11:20:59 IST" name="close" finished-at="2022-12-29T11:20:59 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.demo.seleniumTestNG.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
